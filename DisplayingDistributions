@@ -1,0 +1,87 @@
+<html>
+  <head>
+    <title>HW6</title>
+  </head>
+  <style>
+body
+  {
+  background-color: #ecf0f1;
+  padding: 10
+  }
+h1
+  {
+  font-family:monospace;
+  font-size: 20; 
+  border: 5px solid; 
+  border-radius: 5px; 
+  border-color: #2c3e50; 
+  background-color:#3498db; 
+  color: white; 
+  border-color: black;  
+  padding: 10;
+  }
+h2{
+  border: 2px solid; 
+  margin: 7px;
+  padding: 15px; 
+  border-radius: 5px;  
+  text-align:left; 
+  background-color: #2ecc71;
+  font-size: 20;
+  width: 300;
+  }
+p
+  { 
+  border: 2px solid; 
+  margin: 7px;
+  padding: 15px; 
+  border-radius: 5px;   
+  background-color: #2ecc71; 
+  border-color: black;
+  font-size:24 
+  }
+p:hover,h2:hover 
+  {
+  background-color: #a29bfe;
+  text-decoration: none;
+  color: white;
+  }
+a
+    {
+        text-decoration:none;
+        color: inherit;
+    }    
+a:hover
+    {
+        text-decoration:underline;
+        color: white;
+    }      
+           
+</style>
+  <body> 
+    <h1>Provide a URL where you discuss what is a distribution and describe how the 4 elements of a distribution: level, spread, shape, and outliers can visually describe a distribution.  If you want to do something more, create your own visuals of how these elements can be described.</h1>
+    <hr />
+    <table>
+      <tr>
+        <td>
+            <p>
+            </p>
+        </td>
+        <td>
+            <p>
+            </p>
+        </td>
+      </tr>
+      <tr>
+      <td>
+
+      </td>     
+      <td>
+         <p>
+The center is the place on a distribution where you are able to communicate the mean, median and mode of the date. Thus, the level of the center can allow the data to stand out for the viewer of your distribution. Making the shape steeper draws attention to this part of the graph, or              
+         </p> 
+      </td>   
+      </tr>
+    </table>
+  </body>
+</html>
